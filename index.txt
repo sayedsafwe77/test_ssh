@@ -40,3 +40,12 @@ git push origin main
 
 github-sayed1   -> id_sayed1
 github-sayed2   -> id_sayed2
+
+
+
+-- create username, password for this machine
+
+
+
+--server ssh -> github username
+--server ssh -> github username
