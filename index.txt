@@ -10,3 +10,33 @@ line 9
 add new content:
 - in index.html add
 - in index.txt
+
+
+
+
+
+
+
+
+-index.html
+-index.txt 
+
+staging area
+-index.html
+
+git commit   16 -index.html
+
+staging area
+-index.txt
+git commit  --amend 17 -index.html
+
+
+// sayedsafwet4@gmail.com
+
+
+
+git push origin main
+
+
+github-sayed1   -> id_sayed1
+github-sayed2   -> id_sayed2
